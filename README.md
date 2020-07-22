@@ -1,5 +1,5 @@
 # pterodactyl-panel-docker
-[![GitHub release](https://img.shields.io/github/release/TehTotalPwnage/pterodactyl-panel-docker.svg?style=for-the-badge)](https://github.com/TehTotalPwnage/pterodactyl-panel-docker/releases)
+[![GitHub release](https://img.shields.io/github/release/creepinson/pterodactyl-panel-docker.svg?style=for-the-badge)](https://github.com/creepinson/pterodactyl-panel-docker/releases)
 > Docker Compose configuration for the [Pterodactyl Panel](https://github.com/Pterodactyl/Panel).
 
 Pterodactyl is an open-source control panel used for hosting numerous game-related
